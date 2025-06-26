@@ -1,0 +1,16 @@
+[
+  {
+    "name": "YBL-1",
+    "info": "Test location with multiple images",
+    "top": "73%",
+    "left": "26.5%",
+    "images": ["images/test1.jpg", "images/test2.jpg"]
+  },
+  {
+    "name": "Pha Lang Airfield",
+    "info": "Second location with one image",
+    "top": "30%",
+    "left": "56.5%",
+    "images": ["images/test3.jpg"]
+  }
+]
