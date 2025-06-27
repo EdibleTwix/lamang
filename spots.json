@@ -1,16 +1,38 @@
 [
   {
     "name": "YBL-1",
-    "info": "Test location with multiple images",
-    "top": "73%",
-    "left": "26.5%",
-    "images": ["images/test1.jpg", "images/test2.jpg"]
+    "xPercent": 19,
+    "yPercent": 73,
+    "info": "Jump from the wood pallets near the southernmost wall to the overhang.",
+    "sections": [
+      {
+        "label": "YBL Main",
+        "images": ["images/YBL1.png", "images/YBL2.png", "images/YBL3.png"]
+      }
+    ]
   },
   {
     "name": "Pha Lang Airfield",
-    "info": "Second location with one image",
-    "top": "30%",
-    "left": "56.5%",
-    "images": ["images/test3.jpg"]
+    "xPercent": 59,
+    "yPercent": 28.5,
+    "info": "Most of these overwatch across the airfield from the south. The restaurant is best to defend against Golf 2 Landing Zone.",
+    "sections": [
+      {
+        "label": "Restaurant",
+        "images": ["images/PLA1.png", "images/PLA2.png"]
+      },
+      {
+        "label": "Drug Room 1",
+        "images": ["images/PLA3.png", "images/PLA4.png"]
+      },
+      {
+        "label": "Drug Room 2",
+        "images": ["images/PLA5.png", "images/PLA6.png"]
+      },
+      {
+        "label": "Remote Hangar",
+        "images": ["images/PLA7.png", "images/PLA8.png"]
+      }
+    ]
   }
 ]
